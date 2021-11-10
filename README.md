@@ -4,3 +4,5 @@ In this project, I use Logistic Regression to Predict if a passenger aboard the 
 <img src='https://github.com/ErnestAsena/Predicting-Passenger-Surivival-on-the-Titanic-and-Student-Uni-Admittance/blob/main/Images/Screenshot%202021-11-10%20at%2013.06.15.png'>
 
 <img src='https://github.com/ErnestAsena/Predicting-Passenger-Surivival-on-the-Titanic-and-Student-Uni-Admittance/blob/main/Images/Screenshot%202021-11-10%20at%2013.06.42.png'>
+
+<img src='https://github.com/ErnestAsena/Predicting-Passenger-Surivival-on-the-Titanic-and-Student-Uni-Admittance/blob/main/Images/Screenshot%202021-11-10%20at%2013.06.58.png'>
